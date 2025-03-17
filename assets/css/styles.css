@@ -44,6 +44,8 @@
     src: url(pre/Pretendard-Thin.woff) format('woff');
 }
 
+/* 여기서부터는 폰트입니다. */
+
 body{
     font-family: "Pretendard";
 }
